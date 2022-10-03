@@ -77,5 +77,27 @@ gsap.from("#line1",{
     markers : true,
   },
 })
+
+function boxAnimation(){
+  gsap.to("#box1>img",{
+    scrollTrigger : {
+      trigger : "#box1>img",
+      scroller : "#main",
+      toggleactions : "play pause pause reverse"
+    },
+    scale : 1,
+    top: 0,
+    borderTopRightRadius: '0',
+    borderTopLeftRadius: '0',
+    // width: '100vw',
+    // height: '100vh',
+    ease: ' Power2.easeOut',
+    backgroundImage: "none",
+    backgroundColor: "blue",
+    boxShadow: 'none',
+  })
+}
+
+boxAnimation();
     
 
