@@ -249,14 +249,15 @@ html,body{
     width: 13vw;
     left: 5%;
      border-radius: 50px;
-     border: 2px solid yellow;
+     border: 2px solid white;
     /* background-color: red; */
 }
 #viewproject>a{
     position: relative;
     height: 10vh;
     width: 5vw;
-    top: 15%;
+    top: 20%;
+    font-family: gilroy;
     left: 10%;
     text-decoration: none;
     color: white;
@@ -268,13 +269,14 @@ html,body{
     width: 13vw;
     left: 35%;
      border-radius: 50px;
-     border: 2px solid yellow;
+     border: 2px solid white;
 }
 #viewsourcecode>a{
     position: relative;
     height: 10vh;
     width: 5vw;
-    top: 15%;
+    top: 20%;
+    font-family: gilroy;
     left: 10%;
     color: white;
     text-decoration: none;
@@ -305,14 +307,15 @@ html,body{
     width: 13vw;
     left: 85%;
      border-radius: 50px;
-     border: 2px solid yellow;
+     border: 2px solid white;
     /* background-color: red; */
 }
 #viewproject1>a{
     position: relative;
     height: 10vh;
     width: 5vw;
-    top: 15%;
+    top: 20%;
+    font-family: gilroy;
     text-decoration: none;
     left: 10%;
     color: white;
@@ -324,13 +327,14 @@ html,body{
     width: 13vw;
     left: 115%;
      border-radius: 50px;
-     border: 2px solid yellow;
+     border: 2px solid white;
 }
 #viewsourcecode1>a{
     position: relative;
     height: 10vh;
     width: 5vw;
-    top: 15%;
+    top: 20%;
+    font-family: gilroy;
     text-decoration: none;
     left: 10%;
     color: white;
@@ -361,7 +365,7 @@ html,body{
     width: 13vw;
     left: 5%;
      border-radius: 50px;
-     border: 2px solid yellow;
+     border: 2px solid white;
     /* background-color: red; */
 }
 #viewproject2>a{
@@ -369,7 +373,8 @@ html,body{
     height: 10vh;
     width: 5vw;
     text-decoration: none;
-    top: 15%;
+    top: 20%;
+    font-family: gilroy;
     left: 10%;
     color: white;
 }
@@ -380,13 +385,14 @@ html,body{
     width: 13vw;
     left: 35%;
      border-radius: 50px;
-     border: 2px solid yellow;
+     border: 2px solid white;
 }
 #viewsourcecode2>a{
     position: relative;
     height: 10vh;
     width: 5vw;
-    top: 15%;
+    top: 20%;
+    font-family: gilroy;
     text-decoration: none;
     left: 10%;
     color: white;
@@ -418,7 +424,7 @@ html,body{
     width: 13vw;
     left: 85%;
      border-radius: 50px;
-     border: 2px solid yellow;
+     border: 2px solid white;
     /* background-color: red; */
 }
 #viewproject3>a{
@@ -426,7 +432,8 @@ html,body{
     height: 10vh;
     width: 5vw;
     text-decoration: none;
-    top: 15%;
+    top: 20%;
+    font-family: gilroy;
     left: 10%;
     color: white;
 }
@@ -437,13 +444,14 @@ html,body{
     width: 13vw;
     left: 115%;
      border-radius: 50px;
-     border: 2px solid yellow;
+     border: 2px solid white;
 }
 #viewsourcecode3>a{
     position: relative;
     height: 10vh;
     width: 5vw;
-    top: 15%;
+    top: 20%;
+    font-family: gilroy;
     text-decoration: none;
     left: 10%;
     color: white;
@@ -475,14 +483,15 @@ html,body{
     width: 13vw;
     left: 5%;
      border-radius: 50px;
-     border: 2px solid yellow;
+     border: 2px solid white;
 }
 #viewproject4>a{
     position: relative;
     height: 10vh;
     width: 5vw;
     text-decoration: none;
-    top: 15%;
+    top: 20%;
+    font-family: gilroy;
     left: 10%;
     color: white;
 }
@@ -493,7 +502,7 @@ html,body{
     width: 13vw;
     left: 35%;
      border-radius: 50px;
-     border: 2px solid yellow;
+     border: 2px solid white;
 }
 #viewsourcecode4>a{
     position: relative;
@@ -501,7 +510,8 @@ html,body{
     width: 5vw;
     text-decoration: none;
     font-family: gilroy;
-    top: 15%;
+    top: 20%;
+    font-family: gilroy;
     left: 10%;
     color: white;
 }
